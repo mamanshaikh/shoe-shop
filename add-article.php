@@ -1,4 +1,4 @@
-<?php
+<?phphello
 // Initialize the session
 session_start();
  
